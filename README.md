@@ -1,20 +1,22 @@
-# Schedule_Generator
+# Schedule Generator
 
-This script automates the task of creating weekly schedules for employees. It generates a schedule based on the availability of employees for morning and afternoon shifts.
+## This script automates the task of creating weekly schedules for employees. It generates a schedule based on the availability of employees for morning and afternoon shifts.
 
 Features
-Interactive input for employee names for both morning and afternoon shifts.
-Flexible start and end dates for the schedule.
-Generates an Excel sheet with the weekly schedule, starting from Monday and ending on Friday.
-Ensures that the shifts rotate between the available employees in the order they're entered.
+Interactive input for employee names for both morning and afternoon shifts
+Flexible start and end dates for the schedule
+Generates an Excel sheet with the weekly schedule, starting from Monday and ending on Friday
+Ensures that the shifts rotate between the available employees in the order they're entered
+
 Requirements
+
 Python 3
-openpyxl library for handling Excel operations.
+openpyxl library for handling Excel operations
 To install the required library, run:
 
-bash
-Copy code
-pip install openpyxl
+
+<pip install openpyxl>
+  
 Usage
 Clone the repository or download the script.
 Navigate to the directory containing the script using a terminal or command prompt.
