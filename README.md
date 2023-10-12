@@ -14,9 +14,9 @@ Python 3
 openpyxl library for handling Excel operations
 To install the required library, run:
 
-
-<pip install openpyxl>
-  
+```
+pip install openpyxl
+```  
 Usage
 Clone the repository or download the script.
 Navigate to the directory containing the script using a terminal or command prompt.
